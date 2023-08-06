@@ -1,0 +1,8 @@
+This is BASH 5.1- DISPLAY on :0 Ian Martin Ajzenszmidt 
+
+Mon 07 Aug 2023 06:51:23 AEST
+(06:51 ian@ian-Aspire-One-753 ~) > ls *.py
+chatgpt4splinesspheres.py  splineinterpolationandandsmoothing.py  uwisc.py
+oth3.py                    splinespherevisualizationandlist.py
+spherespline2.py           thinbladesplines.py
+(06:51 ian@ian-Aspire-One-753 ~) > ipython3 thinbladesplines.py
